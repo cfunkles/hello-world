@@ -1,4 +1,4 @@
 # hello-world
 Yay! first repository!
 I play the tuba
-Folling the tutorial
+following the tutorial
